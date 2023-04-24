@@ -2,9 +2,9 @@
 
 # 회사 소개
 
-![Hack The Box](./images/Hack-The-Box-logo.png){: width="50%" height="50%"}
+<!-- ![Hack The Box](./images/Hack-The-Box-logo.png){: width="50%" height="50%"} -->
 
-<img src="./images/Hack-The-Box-logo.png" alt="Hack The Box" title="Hack The Box" width="400" height="200" />
+<img src="./images/Hack-The-Box-logo.png" alt="Hack The Box" title="Hack The Box" width="600" height="300" />
 
 Hack The Box는 사이버 보안 기술을 테스트하고 향상시킬 수 있는 온라인 플랫폼입니다.
 
