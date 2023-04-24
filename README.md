@@ -2,8 +2,8 @@
 
 # 회사 소개
 
-![Hack The Box](./images/Hack-The-Box-logo.png) {: width="50%" height="50%"}
-![Hack The Box](https://www.hackthebox.com/wp-content/uploads/2021/09/HTB-Logo-2021.png)
+![Hack The Box](./images/Hack-The-Box-logo.png){: width="50%" height="50%"}
+
 
 Hack The Box는 사이버 보안 기술을 테스트하고 향상시킬 수 있는 온라인 플랫폼입니다.
 
